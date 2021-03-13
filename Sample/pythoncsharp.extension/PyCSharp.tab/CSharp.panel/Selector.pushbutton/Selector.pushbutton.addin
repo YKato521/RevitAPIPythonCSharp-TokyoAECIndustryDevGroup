@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Selector.pushbutton</Text>
+    <Description>Some description for Selector.pushbutton</Description>
+    <Assembly>Selector.pushbutton.dll</Assembly>
+    <FullClassName>Selector.pushbutton.Command</FullClassName>
+    <ClientId>6d4defa8-2795-4b7d-aff1-0a2d497e267a</ClientId>
+    <VendorId>com.terapad.redtechlab</VendorId>
+    <VendorDescription>RED Tech Lab</VendorDescription>
+  </AddIn>
+</RevitAddIns>
